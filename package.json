@@ -26,5 +26,9 @@
     "gatsby-source-filesystem": "^2.1.28",
     "gatsby-transformer-yaml": "^2.2.12",
     "theme-ui": "^0.2.43"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dungeongod/gatsby-template.git"
   }
 }
